@@ -9,8 +9,7 @@ const AInfo = () => {
   <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
     <div className="max-w-3xl">
       <h2 className="text-3xl text-yellow-400 font-bold sm:text-4xl">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod alias
-        doloribus impedit.
+        Talk to our trained proffessionals
       </h2>
     </div>
 
