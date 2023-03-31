@@ -19,7 +19,7 @@ const Team = () => {
                     alt="Dr.Anna Gantt"/>
                     </a>
                 <h2 className="mt-4 text-xl font-semibold text-yellow-400 capitalize dark:text-yellow-400">Dr.Anna Gantt</h2>
-                <p className="mt-2 text-lg tracking-wider font-semibold text-gray-700 uppercase dark:text-white ">Co - Founder</p>
+                <p className="mt-2 text-lg tracking-wider font-semibold text-gray-500 uppercase dark:text-white ">Co - Founder</p>
                 <a href='/DrAnnaGantt' className="mt-2  text-center tracking-wider text-sm text-white uppercase hover:text-yellow-400 active:text-white dark:text-gray-500 ">Link to Full Bio</a>
                 <p className="mt-2 text-sm tracking-wider  text-gray-300 uppercase dark:text-white ">Dr. Anna Gantt, a licensed clinical mental
                 health counselor with over ten years of counseling experience specializing in
