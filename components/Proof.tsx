@@ -11,8 +11,8 @@ const Proof = () => {
               <dd className="font-light text-gray-500 dark:text-gray-400">programs & services</dd>
           </div>
           <div className="flex flex-col items-center justify-center">
-              <dt className="mb-2 text-3xl md:text-4xl font-extrabold text-yellow-400 hover:text-white">24 / 7 </dt>
-              <dd className="font-light text-gray-500 dark:text-gray-400">service</dd>
+              <dt className="mb-2 text-3xl md:text-4xl font-extrabold text-yellow-400 hover:text-white">100 % </dt>
+              <dd className="font-light text-gray-500 dark:text-gray-400">satisfaction</dd>
           </div>
           <div className="flex flex-col items-center justify-center">
               <dt className="mb-2 text-3xl md:text-4xl font-extrabold text-yellow-400 hover:text-white">1k+</dt>
