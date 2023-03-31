@@ -34,7 +34,7 @@ const AInfo = () => {
 
           <p className=' text-white'>
           Additionally, our clients can rest assured that
-          their Therapist is well experience with their presenting needs and multiculturally
+          their therapist is well experienced with their presenting needs and multiculturally
           sensitive. Please request an appointment with one of our therapists to receive a
           consultation on how we can help you!
           </p>
