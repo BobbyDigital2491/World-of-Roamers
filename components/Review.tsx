@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from 'react'
 
 const Review = () => {
@@ -266,18 +267,19 @@ const Review = () => {
             </svg>
           </div>
 
-          <p className="mt-2 text-yellow-400 font-medium sm:mt-0">The best thing money can buy!</p>
+          <p className="mt-2 text-yellow-400 font-medium sm:mt-0">Made a significant impact on my relationship!</p>
         </header>
 
         <p className="mt-2 text-gray-300">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam
-          possimus fuga dolor rerum dicta, ipsum laboriosam est totam iusto
-          alias incidunt cum tempore aliquid aliquam error quisquam ipsam
-          asperiores! Iste?
+        I cannot recommend Pieces 2 Peace Wellness LLC enough! I went for pre-marital counseling
+        with my partner and it was an incredibly valuable experience. Our therapist was able to help
+        us address potential conflicts before they even arose, which has been so helpful in our 
+        relationship. We also attended a men's group session which was a really supportive environment.
+        The whole team at Pieces 2 Peace is wonderful and I'm so grateful for their services.
         </p>
 
         <footer className="mt-4">
-          <p className="text-xs text-gray-500">John Doe - 12th January, 2024</p>
+          <p className="text-xs text-gray-500">Sarah Carter - 22th April, 2022</p>
         </footer>
       </blockquote>
 
@@ -336,18 +338,18 @@ const Review = () => {
             </svg>
           </div>
 
-          <p className="mt-2 text-yellow-400 font-medium sm:mt-0">The best thing money can buy!</p>
+          <p className="mt-2 text-yellow-400 font-medium sm:mt-0">Life Changing</p>
         </header>
 
         <p className="mt-2 text-gray-300">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam
-          possimus fuga dolor rerum dicta, ipsum laboriosam est totam iusto
-          alias incidunt cum tempore aliquid aliquam error quisquam ipsam
-          asperiores! Iste?
+        P2P runs a men's group session that I've been attending for a few months now and it's 
+        been life-changing. It's rare to find a space where men can be vulnerable and talk about 
+        their feelings, but P2P has created exactly that. I feel like I've made some real connections
+         with the other men in the group and I'm so grateful for this experience.
         </p>
 
         <footer className="mt-4">
-          <p className="text-xs text-gray-500">John Doe - 12th January, 2024</p>
+          <p className="text-xs text-gray-500">Mark Stevenson - 1st May, 2022</p>
         </footer>
       </blockquote>
     </div>
@@ -359,3 +361,4 @@ const Review = () => {
 }
 
 export default Review
+
