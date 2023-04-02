@@ -11,6 +11,7 @@ import Review from '../components/Review'
 import Banner from '../components/Banner'
 import Info from '../components/Info'
 import Proof from '../components/Proof'
+import HBanner from '../components/HBanner'
 
 export default function index() {
   return (
@@ -20,7 +21,7 @@ export default function index() {
   
     <Nav/>
     <br/>
-    <Hero/>
+    <HBanner/>
     <br/><br/><br/><br/>
     <Banner/>
     
