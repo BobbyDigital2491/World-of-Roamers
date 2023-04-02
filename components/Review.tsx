@@ -10,7 +10,7 @@ const Review = () => {
 
     <div className="mt-4 flex items-center gap-4">
       <p className="text-3xl text-yellow-400 font-medium">
-        4.8
+        5.0
         <span className="sr-only"> Average review score </span>
       </p>
 
@@ -58,7 +58,7 @@ const Review = () => {
           </svg>
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="h-5 w-5 text-gray-200"
+            className="h-5 w-5 text-yellow-400"
             viewBox="0 0 20 20"
             fill="currentColor"
           >
@@ -118,7 +118,7 @@ const Review = () => {
             </svg>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-5 w-5 text-gray-200"
+              className="h-5 w-5 text-yellow-400"
               viewBox="0 0 20 20"
               fill="currentColor"
             >
@@ -187,7 +187,7 @@ const Review = () => {
             </svg>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-5 w-5 text-gray-200"
+              className="h-5 w-5 text-yellow-400"
               viewBox="0 0 20 20"
               fill="currentColor"
             >
@@ -257,7 +257,7 @@ const Review = () => {
             </svg>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-5 w-5 text-gray-200"
+              className="h-5 w-5 text-yellow-400"
               viewBox="0 0 20 20"
               fill="currentColor"
             >
@@ -279,7 +279,7 @@ const Review = () => {
         </p>
 
         <footer className="mt-4">
-          <p className="text-xs text-gray-500">Sarah Carter - 22th April, 2022</p>
+          <p className="text-xs text-gray-500">Aisha Carter - 22th April, 2022</p>
         </footer>
       </blockquote>
 
@@ -328,7 +328,7 @@ const Review = () => {
             </svg>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-5 w-5 text-gray-200"
+              className="h-5 w-5 text-yellow-400"
               viewBox="0 0 20 20"
               fill="currentColor"
             >
@@ -361,4 +361,5 @@ const Review = () => {
 }
 
 export default Review
+
 
