@@ -170,35 +170,7 @@ const Footer = () => {
             </li>
 
            
-            <li>
-              <a
-                className="text-gray-400 transition hover:text-gray-700/75"
-                href="/"
-              >
-                GoFundMe
-              </a>
-            </li>
-            <li>
-              <a
-                className="group flex justify-center gap-1.5 sm:justify-start"
-                href="/"
-              >
-                <span
-                  className="text-gray-400 transition group-hover:text-gray-700/75"
-                >
-                  Live Chat
-                </span>
-
-                <span className="relative flex h-2 w-2">
-                  <span
-                    className="absolute inline-flex h-full w-full animate-ping rounded-full bg-sky-400 opacity-75"
-                  ></span>
-                  <span
-                    className="relative inline-flex h-2 w-2 rounded-full bg-sky-400"
-                  ></span>
-                </span>
-              </a>
-            </li>
+            
           </ul>
         </nav>
       </div>
