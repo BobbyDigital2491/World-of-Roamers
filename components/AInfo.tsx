@@ -9,7 +9,7 @@ const AInfo = () => {
   <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
     <div className="max-w-3xl">
       <h2 className="text-3xl text-yellow-400 font-bold sm:text-4xl">
-        Talk to our trained professionals
+       Serving our community
       </h2>
     </div>
 
@@ -34,7 +34,7 @@ const AInfo = () => {
 
           <p className=' text-white'>
           Additionally, our clients can rest assured that
-          their therapist is well experienced with their presenting needs and multiculturally
+          their Therapist is well experience with their presenting needs and multiculturally
           sensitive. Please request an appointment with one of our therapists to receive a
           consultation on how we can help you!
           </p>
@@ -50,3 +50,4 @@ const AInfo = () => {
 }
 
 export default AInfo
+
