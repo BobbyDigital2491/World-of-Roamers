@@ -6,7 +6,7 @@ const List = () => {
 <h2 className="mb-2 text-center text-3xl font-bold text-yellow-400 dark:text-yellow-400">Hours, Fees, and Payment:</h2>
 <ul className="  space-y-1 text-white dark:text-white">
     <li className='text-center'>
-    We accept all major insurance companies to include the following: Cigna,
+    ✅ We accept all major insurance companies to include the following: Cigna,
     Aetna, UHS, Optium, TriCare, Medicaid-fee-for-service, Absolute Total
     Care-Medicaid, Molina, Healthy Blue, Select Health-Medicaid, BlueCross
     Blue Shield, and BlueCross Blue Shield-PEBA and Federal plans.
@@ -14,7 +14,7 @@ const List = () => {
     </li>
     <li className='text-center'>
     ✅ We accept cash, debit, major credit cards, cashiers checks, and money
-    orders. We do not accept personal checks.
+    orders.
     </li>
     <li className='text-center'>
     🚫We do not accept personal checks.
