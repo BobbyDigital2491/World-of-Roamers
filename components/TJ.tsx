@@ -11,7 +11,7 @@ const TJ = () => {
           <header className="mb-4 lg:mb-6 not-format">
               <address className="flex items-center mb-6 not-italic">
                   <div className="inline-flex items-center mr-3 text-sm text-white dark:text-white">
-                      <img className="mr-4 w-16 h-16 rounded-full" src="/Tj.jpg" alt="Jese Leos"/>
+                      <img className="mr-4 w-16 h-16 rounded-full" src="/tj.jpg" alt="Trinicia Jackson"/>
                       <div>
                           <a href="#" rel="author" className="text-3xl font-bold text-white dark:text-white"><span className='text-yellow-400'>Trinicia</span> Jackson</a>
                           <p className="text-base font-light text-gray-500 dark:text-gray-400">Co - Founder</p>
@@ -57,4 +57,5 @@ const TJ = () => {
 }
 
 export default TJ
+
 
