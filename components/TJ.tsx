@@ -20,7 +20,7 @@ const TJ = () => {
               </address>
           </header>
           
-          <img src="/Tj.jpg" alt="Trinicia Jackson"/>
+          <img src="/tj.jpg" alt="Trinicia Jackson"/>
           <br/>
           <p className='text-white text-lg'>Trinicia “TJ” Jackson is a Licensed Professional Counselor/ Supervisor Candidate
                 (LPC/S-Candidate) in Columbia, SC. I graduated from Webster University with my Masters of Arts degree
