@@ -1,4 +1,6 @@
+/* eslint-disable @next/next/no-html-link-for-pages */
 /* eslint-disable @next/next/no-img-element */
+/* eslint-disable @next/next/link-passhref */
 import React from 'react'
 import Seo from '../components/Seo'
 import Nav from '../components/Nav'
@@ -9,8 +11,9 @@ import Review from '../components/Review'
 import Banner from '../components/Banner'
 import Info from '../components/Info'
 import Proof from '../components/Proof'
+import HBanner from '../components/HBanner'
 
-const home = () => {
+export default function home() {
   return (
     <div className=' bg-black'>
     <Seo title='Pieces 2 Peace Wellness Center LLC' description='dkdkkd' image='/logo.jpeg' url=''/>
@@ -29,8 +32,6 @@ const home = () => {
     <Review/>
     <Footer/>
     
-    </div>
-  )
+</div>
+  );
 }
-
-export default home
