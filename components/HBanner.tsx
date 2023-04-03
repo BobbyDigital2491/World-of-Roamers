@@ -5,7 +5,7 @@ const HBanner = () => {
   return (
     <div>
       <section
-  className="overflow-hidden bg-[url(https://post.healthline.com/wp-content/uploads/2023/02/HL-Hub_Key_Art-Black_Health-3600x600-Desktop_Key_Art.20230217044852981.png)] bg-cover bg-center bg-no-repeat"
+  className="overflow-hidden bg-[url(https://www.northeastern.edu/graduate/blog/wp-content/uploads/2021/06/Multicultural-counseling.jpg)] bg-cover bg-center bg-no-repeat"
 >
   <div className="bg-black/25 p-8 md:p-12 lg:px-16 lg:py-24">
     <div className="lg:text-center md:text-center sm:text-center">
