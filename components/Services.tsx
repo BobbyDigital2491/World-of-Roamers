@@ -3,7 +3,7 @@ import React from 'react'
 
 const Services = () => {
   return (
-    <div className=" xl:grid-cols-3 xl:gap-4 lg:grid lg:grid-cols-3 lg:gap-4 sm:grid sm:grid-cols-1 sm:gap-2 ">
+    <div className=" xl:grid-cols-3 xl:gap-4 lg:grid lg:grid-cols-3 lg:gap-4 md:grid md:grid-cols-2 md:gap-2 sm:grid sm:grid-cols-1 sm:gap-2 ">
         <a href="#" className="flex flex-col items-center bg-black border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
             <img className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="https://sdhcounseling.com/wp-content/uploads/2014/09/AdobeStock_38376118.jpeg" alt=""/>
             <div className="flex flex-col justify-between p-4 leading-normal">
