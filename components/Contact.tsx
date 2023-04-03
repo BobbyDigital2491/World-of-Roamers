@@ -58,7 +58,7 @@ const Contact = () => {
             </div>
 
             <div className="p-4 py-6 rounded-lg bg-gray-800 dark:bg-gray-800 md:p-8">
-                <form>
+                <form action="https://formsubmit.co/pieces2peacewellnesscenter@gmail.com" method="POST">
                     <div className="-mx-2 md:items-center md:flex">
                         <div className="flex-1 px-2">
                             <label className="block mb-2 text-sm text-white dark:text-gray-200">First Name</label>
