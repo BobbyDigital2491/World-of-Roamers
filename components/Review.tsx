@@ -272,9 +272,9 @@ const Review = () => {
 
         <p className="mt-2 text-gray-300">
         I cannot recommend Pieces 2 Peace Wellness LLC enough! I went for pre-marital counseling
-        with my partner and it was an incredibly valuable experience. Our therapist was able to help
+        with my partner and it was an incredibly valuable experience. Our therapist Ms Trinicia Jackson was able to help
         us address potential conflicts before they even arose, which has been so helpful in our 
-        relationship. We also attended a men's group session which was a really supportive environment.
+        relationship. We also attended a women's group session which was a really supportive environment.
         The whole team at Pieces 2 Peace is wonderful and I'm so grateful for their services.
         </p>
 
