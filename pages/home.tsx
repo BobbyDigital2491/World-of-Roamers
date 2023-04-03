@@ -13,22 +13,22 @@ import Proof from '../components/Proof'
 const home = () => {
   return (
     <div className=' bg-black'>
-        <Seo title='Pieces 2 Peace Wellness Center LLC' description='dkdkkd' image='/logo.jpeg' url=''/>
-        
-      
-        <Nav/>
-        <br/>
-        <Hero/>
-        <br/><br/><br/><br/>
-        <Banner/>
-        
-        <About/>
-        <Proof/>
-        <Info/>
-        
-        <Review/>
-        <Footer/>
-        
+    <Seo title='Pieces 2 Peace Wellness Center LLC' description='dkdkkd' image='/logo.jpeg' url=''/>
+    
+  
+    <Nav/>
+    <br/>
+    <HBanner/>
+    <br/><br/><br/><br/>
+    <Banner/>
+    
+    <About/>
+    <Proof/>
+    <Info/>
+    
+    <Review/>
+    <Footer/>
+    
     </div>
   )
 }
