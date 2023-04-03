@@ -7,9 +7,9 @@ const List = () => {
 <ul className="  space-y-1 text-white dark:text-white">
     <li className='text-center'>
     ✅ We accept all major insurance companies to include the following: Cigna,
-    Aetna, UHS, Optium, TriCare, Medicaid-fee-for-service, Absolute Total
-    Care-Medicaid, Molina, Healthy Blue, Select Health-Medicaid, BlueCross
-    Blue Shield, and BlueCross Blue Shield-PEBA and Federal plans.
+    Aetna, UHS and Optum, TriCare, Medicaid-fee-for-service, Absolute Total
+    Care-Medicaid, Molina, Healthy Blue, Select Health-Medicaid, Humana behavioral health
+    BlueCross Blue Shield, and BlueCross Blue Shield-PEBA and Federal plans.
     
     </li>
     <li className='text-center'>
