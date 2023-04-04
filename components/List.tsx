@@ -6,10 +6,10 @@ const List = () => {
 <h2 className="mb-2 text-center text-3xl font-bold text-yellow-400 dark:text-yellow-400">Hours, Fees, and Payment:</h2>
 <ul className="  space-y-1 text-white dark:text-white">
     <li className='text-center'>
-    ✅ We accept all major insurance companies to include the following: Cigna,
-    Aetna, UHC and Optum, TriCare, Medicaid-fee-for-service, Absolute Total
-    Care-Medicaid, Molina, Healthy Blue, Select Health-Medicaid, Humana behavioral health
-    BlueCross Blue Shield, and BlueCross Blue Shield-PEBA and Federal plans.
+    ✅ We accept all major insurance companies to include the following: Aetna, Absolute Total Care, BlueCross and BlueShield,
+      Bluechoice Medicaid, Cigna and Evernorth, First Choice by Select Health Medicaid,
+      Humana Behavioral Health, UnitedHealthcare UHC | UBH and Optum, Medicaid (Fee for service),
+      Molina Healthcare, and Tricare (certified out of network).
     
     </li>
     <li className='text-center'>
