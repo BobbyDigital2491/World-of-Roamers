@@ -17,7 +17,7 @@ export default function Home() {
       <Head>
         <title>World of Roamers</title>
         <meta name='World of Roamers' content='Welcome to The Official World of Roamers Website' />
-        <link rel='icon' href="/nobg.png" />
+        <link rel='icon' href="/logo.png" />
       </Head>
       <br/><br/><br/><br/>
       <Hero heading='World of Roamers'
