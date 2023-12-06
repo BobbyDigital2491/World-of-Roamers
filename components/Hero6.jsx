@@ -4,7 +4,7 @@ const Hero6 = () => {
   return (
     <div className='flex items-center justify-center h-screen mb-12 bg-fixed bg-center bg-cover'>
       <video autoPlay loop muted className='absolute top-0 left-0 w-full h-full object-cover z-0'>
-        <source src='https://www.dropbox.com/scl/fi/jrfotyfs0d8sqmysi4xdj/download.mp4?rlkey=86ibm0ft2as7z6jivvo68s2iw&dl=0' type='video/mp4' />
+        <source src='https://ipfs.io/ipfs/bafybeihknvqgmll2ttmmwd4wcrla7obqjkanmjgb2v3ewyguucq4zihuaa' type='video/mp4' />
       </video>
       {/* Overlay */}
       <div className='absolute top-0 left-0 right-0 bottom-0 bg-black/20 z-[2]' />
