@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 /* eslint-disable @next/next/link-passhref */
 import Link from 'next/link';
 import React, { useState, useEffect } from 'react';
@@ -34,7 +33,7 @@ const Navbar = () => {
     >
       <div className='max-w-[1240px] m-auto flex justify-between items-center p-4 text-white'>
         <Link href='/'>
-          <img src="/nobg.png" width={110} height={120} alt=''/>
+          <Image src="/nobg.png" width={110} height={120} alt=''/>
         </Link>
         <ul style={{ color: `${textColor}` }} className='hidden sm:flex'>
           <li className='p-4'>
