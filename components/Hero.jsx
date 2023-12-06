@@ -3,7 +3,7 @@ import React from 'react';
 
 const Hero = ({heading, message}) => {
   return (
-    <div className='flex items-center justify-center h-screen mb-12 bg-fixed bg-center bg-cover'>
+    <div className='flex items-center justify-center h-screen mb-12 bg-fixed bg-center bg-cover bg-transparent'>
   <video autoPlay loop muted playsInline className='absolute top-0 left-0 w-full h-full object-cover z-0'>
   <source src='https://www.facebook.com/100000191167297/videos/282028248159168/' type='video/mp4' />
 </video>
