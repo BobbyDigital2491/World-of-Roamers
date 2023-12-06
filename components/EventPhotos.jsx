@@ -17,7 +17,7 @@ const EventPhotos = () => {
         </div>
         <div className='w-full h-full'>
           <Image
-            src='/kids.png'
+            src='/Kids.png'
             alt='/'
             width='215'
             height='217'
