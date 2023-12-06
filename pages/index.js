@@ -7,7 +7,6 @@ import Footer from '../components/Footer';
 import How from '../components/How';
 import Partnership from '../components/Partnership';
 import Content from '../components/Content';
-import Content2 from '../components/Content2';
 import Content3 from '../components/Content3';
 
 export default function Home() {
