@@ -1,7 +1,7 @@
 {
-  "name": "pieces-2-peace",
+  "name": "vr-roamers",
   "version": "1.0.0",
-  "description": "Pieces 2 Peace Website",
+  "description": "World of Roamers Website",
   "author": "Robert Lawrence",
   "license": "MIT",
   "repository": {
@@ -10,7 +10,7 @@
   },
   "source": "pages/index.tsx",
   "engines": {
-    "node": ">=14"
+    "node": ">=21.3"
   },
   "scripts": {
     "dev": "next dev",
@@ -21,7 +21,8 @@
   "dependencies": {
     "next": "12.0.7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.12.0"
   },
   "devDependencies": {
     "@types/node": "17.0.4",
