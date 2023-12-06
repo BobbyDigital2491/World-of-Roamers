@@ -30,7 +30,7 @@ const Team = () => {
             </div>
 
             <div>
-                <img className="object-cover w-32 h-32 mx-auto rounded-full lg:w-44 lg:h-44" src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/118014274_3665191453497191_7285826397741991738_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=4BTNswKIcz8AX_-AYzy&_nc_ht=scontent-lga3-2.xx&oh=00_AfAzFQnj-zNfN-e-KKgvtZlkdOm1fY8dt3KbZsFCbRqBtA&oe=656FA243" alt="" />
+                <img className="object-cover w-32 h-32 mx-auto rounded-full lg:w-44 lg:h-44" src="rpb.jpg" alt="" />
                 <p className="mt-5 text-lg font-bold text-gray-900 sm:text-xl sm:mt-8 font-pj">Robert Lawrence</p>
                 <p className="mt-2 text-base font-normal text-gray-600 font-pj">Chief Technology Officer</p>
             </div>
