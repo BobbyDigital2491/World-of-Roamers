@@ -10,7 +10,7 @@
   },
   "source": "pages/index.tsx",
   "engines": {
-    "node": ">=21.3"
+    "node": ">=18.x"
   },
   "scripts": {
     "dev": "next dev",
