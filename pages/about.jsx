@@ -12,7 +12,7 @@ const about = () => {
       <Head>
         <title>World of Roamers - About Us</title>
         <meta name='World of Roamers' content='About Us' />
-        <link rel='icon' href='/nobg.png' />
+        <link rel='icon' href='nobg.png' />
       </Head>
       <br/><br/><br/><br/>
         <Hero2 heading='About Us' message='World of Roamers Team.' />

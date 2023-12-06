@@ -9,7 +9,7 @@ const comingsoon = () => {
         <Head>
     <title>World of Roamers - Contact Us</title>
     <meta name='World of Roamers' content='The Official World of Roamers Website - Contact Us' />
-    <link rel='icon' href='/nobg.png' />
+    <link rel='icon' href='nobg.png' />
   </Head>
   <br/><br/><br/><br/>
     <Hero6 heading='Coming Soon' message='Submit the form below for more work and quotes.' />
