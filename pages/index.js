@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+
 import Head from 'next/head';
 import Hero from '../components/Hero';
 import Instagram from '../components/Instagram';
@@ -14,7 +16,7 @@ export default function Home() {
     <div>
       <Head>
         <title>World of Roamers</title>
-        <meta name='World of Roamers' content='The Official World of Roamers Website' />
+        <meta name='World of Roamers' content='Welcome to The Official World of Roamers Website' />
         <link rel='icon' href="/nobg.png" />
       </Head>
       <br/><br/><br/><br/>
