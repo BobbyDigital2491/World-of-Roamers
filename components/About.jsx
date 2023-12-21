@@ -37,11 +37,11 @@ const About = () => {
       <img src="https://media.istockphoto.com/id/1153003879/photo/african-man-wearing-virtual-reality-headset.jpg?s=170667a&w=0&k=20&c=chyu73HbUIKFRyUdRpPXfBDdllKK7VCKS2epxw_ciYU=" loading="lazy" alt="Photo by Minh Pham" className="h-full w-full object-cover object-center" />
     </div>
 
-    <h2 className="mb-2 text-xl font-semibold text-gray-800 sm:text-2xl md:mb-4">Unique Value Proposition</h2>
+    {/*<h2 className="mb-2 text-xl font-semibold text-gray-800 sm:text-2xl md:mb-4">Unique Value Proposition</h2>
 
     {/*<p className="text-gray-500 sm:text-lg">Innovation, Accessibility, and Inclusivity</p>*/}
     
-    <ul className="mb-6 list-inside list-disc text-gray-500 sm:text-lg md:mb-8">
+    {/*<ul className="mb-6 list-inside list-disc text-gray-500 sm:text-lg md:mb-8">
       <br/>
       <li>Innovation, Accessibility, and Inclusivity</li>
       <h1>&nbsp;Our mobile VR setup ensures accessibility, making VR experiences available to diverse audiences. World of Roamers VR is committed to supporting Title 1 schools, hospitals, and long-term care facilities.</h1>
@@ -69,12 +69,12 @@ const About = () => {
       
       <br/>
     </ul>
-    <br></br>
+    <br></br>*/}
 
-<p className="mb-3 text-center text-black sm:text-lg md:mb-8 dark:text-gray-600">World of Roamers VR&nbsp;s commitment to innovation, inclusivity, and strategic growth initiatives positions us as a dynamic player in the VR landscape. Our sample business model outlines clear revenue streams and cost structures, ensuring consistent growth and sustained positive impact.
+<p className="mb-3 text-center text-black sm:text-lg md:mb-8 dark:text-gray-600">World of Roamers VR&apos;s commitment to innovation, inclusivity, and strategic growth initiatives positions us as a dynamic player in the VR landscape. Our sample business model outlines clear revenue streams and cost structures, ensuring consistent growth and sustained positive impact.
 For further discussions or inquiries, please feel free to contact us. We look forward to pioneering the future of VR entertainment.
 
-</p>
+  </p>
 
 
   </div>
