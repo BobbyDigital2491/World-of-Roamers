@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-html-link-for-pages */
 /* eslint-disable @next/next/no-img-element */
 import React from 'react'
 
@@ -32,7 +33,7 @@ const How = () => {
                     <div className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
                         <span className="text-xl font-semibold text-gray-700"> 2 </span>
                     </div>
-                    <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">Choose your experience</h3>
+                    <a href="/services"><h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">Choose your experience</h3></a>
                     <p className="mt-4 text-base text-gray-600">Pick from the dozens of games and experiences for you and your friends.</p>
                 </div>
 

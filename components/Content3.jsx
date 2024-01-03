@@ -46,6 +46,14 @@ const Content3 = () => {
                 </div>
                 <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">A cutting-edge solution that transcends traditional corporate training methods. Immerse your team in realistic scenarios, interactive simulations, and personalized learning modules, engagement and retention for a more impactful and efficient training experience.</p>
             </div>
+            <div className="p-6">
+                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="vr3.png" alt="blog"/>
+                <div className="inline-flex justify-between w-full">
+                    <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">Hospitalized Children and Adults</h1>
+                    
+                </div>
+                <p className="mx-auto text-base font-medium leading-relaxed text-gray-500"> A groundbreaking service designed for mental health professionals and their patients. By offering immersive and personalized group therapeutic experiences including meditation retreats, exposure therapy, and PTSD Trauma Resolution, our mobile VR solution enhances traditional counseling methods, providing a more effective and engaging approach to mental health care.</p>
+            </div>
         </div>
     </div>
 </section>
