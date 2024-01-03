@@ -10,9 +10,9 @@ const Content = () => {
             <p className="mb-4">Step into a world where reality blurs with imagination, where your senses are fully engaged in the moment. Whether you&apos;re wearing a VR headset for a video game, wandering through an art installation that defies conventional standards, or taking in an interactive theater performance, immersive experiences take you on a ride that transcends the ordinary.</p>
             
         </div>
-        <div className="grid grid-cols-2 gap-4 mt-8">
-            <img className="w-full h-40 rounded-lg" src="vr2.png" alt="office content 1"/>
-            <img className="mt-4 w-full lg:mt-10 rounded-lg" src="city.gif" alt="office content 2"/>
+        <div className=" mt-8">
+            <img className="w-full h-full rounded-lg" src="vr2.png" alt="office content 1"/>
+            
         </div>
     </div>
 </section>
