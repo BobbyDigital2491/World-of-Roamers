@@ -24,7 +24,7 @@ const How = () => {
                     <div className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
                         <span className="text-xl font-semibold text-gray-700"> 1 </span>
                     </div>
-                    <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">Bring your friends</h3>
+                    <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">Choose Your Location</h3>
                     <p className="mt-4 text-base text-gray-600">Choose up to 4-9 people for your party size and your age range. </p>
                 </div>
 
@@ -40,7 +40,15 @@ const How = () => {
                     <div className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
                         <span className="text-xl font-semibold text-gray-700"> 3 </span>
                     </div>
-                    <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">Start Roaming</h3>
+                    <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">Choose your Friends</h3>
+                    <p className="mt-4 text-base text-gray-600">After your event is booked, you are free to start roaming.</p>
+                </div>
+                
+                <div className='object-center'>
+                    <div className="flex items-center justify-center w-16 h-16 mx-auto bg-white border-2 border-gray-200 rounded-full shadow">
+                        <span className="text-xl font-semibold text-gray-700"> 4 </span>
+                    </div>
+                    <h3 className="mt-6 text-xl font-semibold leading-tight text-black md:mt-10">Choose your Friends</h3>
                     <p className="mt-4 text-base text-gray-600">After your event is booked, you are free to start roaming.</p>
                 </div>
             </div>
