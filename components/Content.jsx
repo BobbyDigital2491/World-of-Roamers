@@ -11,7 +11,7 @@ const Content = () => {
             
         </div>
         <div className="grid grid-cols-2 gap-4 mt-8">
-            <img className="w-full rounded-lg" src="tech.gif" alt="office content 1"/>
+            <img className="w-full h-40 rounded-lg" src="vr2.png" alt="office content 1"/>
             <img className="mt-4 w-full lg:mt-10 rounded-lg" src="city.gif" alt="office content 2"/>
         </div>
     </div>

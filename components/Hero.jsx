@@ -3,7 +3,7 @@ import React from 'react';
 
 const Hero = ({heading, message}) => {
   return (
-    <div className='flex items-center justify-center h-screen mb-12 bg-fixed bg-center bg-cover'>
+    <div className='flex items-center justify-center h-screen mb-8 bg-fixed bg-center bg-cover'>
   <video
   src="https://ipfs.io/ipfs/bafybeihknvqgmll2ttmmwd4wcrla7obqjkanmjgb2v3ewyguucq4zihuaa"
   className="absolute top-0 left-0 w-full h-full object-cover z-0"
