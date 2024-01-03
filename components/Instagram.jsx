@@ -20,7 +20,7 @@ const Instagram = () => {
     <a href='https://www.instagram.com/p/CzngmnquFwI/'><InstagramImg socialImg={insta4} /></a>
     <a href='https://www.instagram.com/p/CzngfAkuabt/'><InstagramImg socialImg={insta5} /></a>
     <a href='https://www.instagram.com/p/CzngZIBOBmR/'><InstagramImg socialImg={insta6} /></a>
-</div> */}
+      </div> */}
 
     </div>
   )
