@@ -30,7 +30,6 @@ export default function Home() {
       <How />
       <Content3 />
       
-      <Slider slides={SliderData} />
       <Instagram />
       <Footer />
     </div>
