@@ -22,9 +22,11 @@ export default function Home() {
       <br/><br/><br/><br/>
       <Hero heading='World of Roamers'
             message='Explore Beyond Reality with World of Roamers VR – Your Gateway to Immersive Adventures!' />
+      <img src='/logo.png'  className="mx-auto" alt=''/>
+      <Content />
       <Partnership />
       <br/><br/><br/><br/>
-      <Content />
+      
       <How />
       <Content3 />
       
