@@ -31,7 +31,7 @@ const Content3 = () => {
                 <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">We bring the world to seniors, offering virtual exploration, engaging activities, and vibrant community connections. Step into a realm of boundless possibilities, where technology creates joy, connection, and a sense of adventure for our cherished seniors.</p>
             </div>
             <div className="p-6">
-                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="https://cdn.cloudflare.steamstatic.com/steam/apps/787790/ss_d54386550b3db5180e87d6e655a38286f646c9df.1920x1080.jpg?t=1697721825" alt="blog"/>
+                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="vr5.png" alt="blog"/>
                 <div className="inline-flex justify-between w-full">
                     <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">Birthday Parties for all ages</h1>
                     
@@ -39,7 +39,7 @@ const Content3 = () => {
                 <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">The ultimate mobile virtual reality party experience! Immerse yourself and your guests in a world of interactive fun, adventure, and laughter, bringing a unique and unforgettable twist to birthdays and special occasions.</p>
             </div>
             <div className="p-6">
-                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="vr3.png" alt="blog"/>
+                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="vr8.png" alt="blog"/>
                 <div className="inline-flex justify-between w-full">
                     <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">Corporate Trainings</h1>
                     
@@ -47,7 +47,7 @@ const Content3 = () => {
                 <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">A cutting-edge solution that transcends traditional corporate training methods. Immerse your team in realistic scenarios, interactive simulations, and personalized learning modules, engagement and retention for a more impactful and efficient training experience.</p>
             </div>
             <div className="p-6">
-                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="vr3.png" alt="blog"/>
+                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="vr9.png" alt="blog"/>
                 <div className="inline-flex justify-between w-full">
                     <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">Mental Health Proffessionals</h1>
                     
