@@ -32,28 +32,28 @@ const Exp = () => {
                 <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">Can you reach the end? Walk the tighrope from one skyscraper to another....if you can.</p>
             </div>
             <div className="p-6">
-                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="https://nextgeneventco.com/wp-content/uploads/plank-walk-rental-ny-nj.jpg" alt="blog"/>
+                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="casino.png" alt="blog"/>
                 <div className="inline-flex justify-between w-full">
-                    <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">Highrise Tightrope Experience</h1>
+                    <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">Virtual Casino Experience</h1>
                     
                 </div>
                 <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">Can you reach the end? Walk the tighrope from one skyscraper to another....if you can.</p>
             </div>
             <div className="p-6">
-                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="https://nextgeneventco.com/wp-content/uploads/plank-walk-rental-ny-nj.jpg" alt="blog"/>
+                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="baseball.png" alt="blog"/>
                 <div className="inline-flex justify-between w-full">
-                    <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">Highrise Tightrope Experience</h1>
+                    <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">VR Baseball Training</h1>
                     
                 </div>
-                <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">Can you reach the end? Walk the tighrope from one skyscraper to another....if you can.</p>
+                <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">Work on your swing with our baseball training experience.</p>
             </div>
             <div className="p-6">
-                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="https://nextgeneventco.com/wp-content/uploads/plank-walk-rental-ny-nj.jpg" alt="blog"/>
+                <img className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="basketball.png" alt="blog"/>
                 <div className="inline-flex justify-between w-full">
-                    <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">Highrise Tightrope Experience</h1>
+                    <h1 className="mb-8 text-xl font-semibold leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600">VR Basketball</h1>
                     
                 </div>
-                <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">Can you reach the end? Walk the tighrope from one skyscraper to another....if you can.</p>
+                <p className="mx-auto text-base font-medium leading-relaxed text-gray-500">Try out this basketball experience solo or with bring your friends. </p>
             </div>
         </div>
     </div>
