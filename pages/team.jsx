@@ -3,7 +3,6 @@ import Head from 'next/head'
 import Hero3 from '../components/Hero3'
 import Team from '../components/Team'
 import Footer from '../components/Footer'
-import EventPhotos from '../components/EventPhotos'
 
 const team = () => {
   return (
@@ -16,7 +15,6 @@ const team = () => {
       <br/><br/><br/><br/>
         <Hero3 heading='Our Team' message='Meet the brains of the operation.' />
         <Team />
-        <EventPhotos />
         <Footer />
     </div>
   )

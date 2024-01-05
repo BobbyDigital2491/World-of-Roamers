@@ -3,6 +3,7 @@ import Hero2 from '../components/Hero2'
 import Head from 'next/head';
 import Footer from '../components/Footer';
 import About from '../components/About';
+import EventPhotos from '../components/EventPhotos'
 
 
 
@@ -16,6 +17,7 @@ const about = () => {
       </Head>
       <br/><br/><br/><br/>
         <Hero2 heading='About Us' message='World of Roamers Team.' />
+        <EventPhotos />
         <About />
         
         

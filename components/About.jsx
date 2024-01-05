@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className="bg-white py-6 sm:py-6 lg:py-4">
   <div className="mx-auto max-w-screen-md px-4 md:px-8">
-    <h1 className="max-w-5xl text-2xl font-bold text-center leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600 md:text-5xl lg:text-6xl lg:max-w-7xl">Our competitive advantage</h1>
+    <h1 className="max-w-5xl text-2xl font-bold text-center leading-none tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 to-pink-600 md:text-5xl lg:text-6xl lg:max-w-7xl">Why book with us.</h1>
     <br/>
     <p className="mb-6 text-gray-500 sm:text-lg md:mb-8">
     World of Roamers VR, headquartered in Charlotte, NC, will be an industry leader in virtual reality (VR) experiences, specializing in accessible and innovative mobile VR solutions for individuals, businesses, and schools. Our focus areas include personalized experiences for special occasions, therapeutic support for mental health and special needs, and immersive educational content. 
