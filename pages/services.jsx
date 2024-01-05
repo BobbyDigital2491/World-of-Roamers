@@ -13,7 +13,7 @@ const services = () => {
         <link rel='icon' href='/nobg.png' />
       </Head>
       <br/><br/><br/><br/>
-        <Hero4 heading='Our Team' message='Meet the brains of the operation.' />
+        <Hero4 heading='VR Games' message='Meet the brains of the operation.' />
         <Exp />
         
         <Footer />
