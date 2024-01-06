@@ -1,7 +1,7 @@
 
 <p  align="center">
 
-<img  src="logo.png"  alt="Next.js TypeScript Starter">
+<img  src="/public/logo.pnglogo.png"  alt="World of Roamers">
 
 </p>
 
@@ -11,7 +11,7 @@
 
   
 
-<div  align="center"><strong>TypeScript with Tailwind starter for Next.js</strong></div>
+<div  align="center"><strong>Welcome to the Official World Of Roamers Website</strong></div>
 
   
 
