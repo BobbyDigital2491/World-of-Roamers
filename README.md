@@ -1,7 +1,7 @@
 
 <p  align="center">
 
-<img  src="/public/logo.pnglogo.png"  alt="World of Roamers">
+<img  src="/public/logo.png"  alt="World of Roamers">
 
 </p>
 
