@@ -4,7 +4,7 @@ const Hero2 = () => {
   return (
     <div className='flex items-center justify-center h-screen mb-12 bg-fixed bg-center bg-cover'>
       <video
-      src="https://ipfs.io/ipfs/bafybeihknvqgmll2ttmmwd4wcrla7obqjkanmjgb2v3ewyguucq4zihuaa"
+      src="https://peach-informal-llama-875.mypinata.cloud/ipfs/QmYnWQhShQfcknVCPc8nGUTn2Qu6GPGYS24sYM2SabzZM9"
       className="absolute top-0 left-0 w-full h-full object-cover z-0"
       autoPlay
       loop
